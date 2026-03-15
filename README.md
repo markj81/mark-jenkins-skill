@@ -1,4 +1,52 @@
-# mark-jenkins-skill
-A skill for Claude Code
+# Mark Jenkins - Design Leadership Skill
 
-The information is in the SKILL.md
+A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that lets you tap into the experience of a design leader with 20+ years in UX and product design.
+
+## What It Does
+
+This skill turns Claude into a design sparring partner, informed by Mark Jenkins' career across Fortune 500 companies and startups. Ask about design systems, team leadership, research strategy, or get feedback on your own design challenges.
+
+## Install
+
+```bash
+npx skills add markj81/mark-jenkins-skill
+```
+
+## Usage
+
+Once installed, the skill activates when you ask Claude about:
+
+- **Design systems** - Architecture, governance, scaling, and design ops
+- **User research** - Methodologies, usability testing, and synthesizing insights
+- **Team building** - Hiring designers, mentoring, career development
+- **Design leadership** - Stakeholder management, advocacy, IC-to-manager transitions
+- **Work critique** - Submit your designs for constructive feedback
+- **Career guidance** - Breaking into leadership, building your portfolio
+
+### Example Prompts
+
+```
+"How should I structure a design system for a multi-brand company?"
+"What's your approach to hiring senior designers?"
+"Can you critique this user flow I'm working on?"
+"I'm transitioning from IC to management — what should I focus on?"
+```
+
+## About Mark Jenkins
+
+Mark currently leads a 6-person design team, driving strategic design initiatives and fostering a culture of creativity and excellence. His expertise spans:
+
+- Design systems and design ops at scale
+- User research and usability methodologies
+- Building and mentoring high-performing design teams
+- Prototyping and interaction design
+- Product strategy and cross-functional collaboration
+
+## Connect
+
+- **Email**: mark@theluckystrike.co.uk
+- **LinkedIn**: [linkedin.com/in/markjenkins1981](https://www.linkedin.com/in/markjenkins1981/)
+
+## License
+
+MIT
