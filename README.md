@@ -4,7 +4,7 @@ A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) tha
 
 ## What It Does
 
-This skill turns Claude into a design sparring partner, informed by Mark Jenkins' career across Fortune 500 companies and startups. Ask about design systems, team leadership, research strategy, or get feedback on your own design challenges.
+This skill turns Claude into a design sparring partner, informed by Mark Jenkins' 20+ years leading design — currently at WeTravel, previously HackerOne, Google, Uber, and The Guardian. Ask about design systems, team leadership, research strategy, or get feedback on your own design challenges.
 
 ## Install
 
@@ -34,13 +34,14 @@ Once installed, the skill activates when you ask Claude about:
 
 ## About Mark Jenkins
 
-Mark currently leads a 6-person design team, driving strategic design initiatives and fostering a culture of creativity and excellence. His expertise spans:
+Mark leads the design team at WeTravel and has mentored 400+ designers across two decades — many now running teams of their own. Strategy in the morning, pixels in the afternoon. His expertise spans:
 
 - Design systems and design ops at scale
 - User research and usability methodologies
 - Building and mentoring high-performing design teams
 - Prototyping and interaction design
 - Product strategy and cross-functional collaboration
+- Putting AI to work in design — built with agents, subagents, and skills in Claude Code (this skill included)
 
 ## Connect
 
