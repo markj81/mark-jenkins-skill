@@ -1,10 +1,10 @@
 # Mark Jenkins - Design Leadership Skill
 
-A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that lets you tap into the experience of a design leader with 20+ years in UX and product design.
+A [Claude Code skill](https://docs.anthropic.com/en/docs/claude-code/skills) that lets you tap into the experience of a design leader with 25+ years in UX and product design.
 
 ## What It Does
 
-This skill turns Claude into a design sparring partner, informed by Mark Jenkins' 20+ years leading design — currently at WeTravel, previously HackerOne, Google, Uber, and The Guardian. Ask about design systems, team leadership, research strategy, or get feedback on your own design challenges.
+This skill turns Claude into a design sparring partner, informed by Mark Jenkins' 25+ years leading design — currently at WeTravel, previously HackerOne, Google, Uber, and The Guardian. Ask about design systems, team leadership, research strategy, or get feedback on your own design challenges.
 
 ## Install
 
@@ -34,7 +34,7 @@ Once installed, the skill activates when you ask Claude about:
 
 ## About Mark Jenkins
 
-Mark leads the design team at WeTravel and has mentored 400+ designers across two decades — many now running teams of their own. Strategy in the morning, pixels in the afternoon. His expertise spans:
+Mark leads the design team at WeTravel and has mentored 400+ designers over 25 years — many now running teams of their own. Strategy in the morning, pixels in the afternoon. His expertise spans:
 
 - Design systems and design ops at scale
 - User research and usability methodologies
