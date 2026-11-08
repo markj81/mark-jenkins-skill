@@ -21,6 +21,7 @@ Once installed, the skill activates when you ask Claude about:
 - **Team building** - Hiring designers, mentoring, career development
 - **Design leadership** - Stakeholder management, advocacy, IC-to-manager transitions
 - **Work critique** - Submit your designs for constructive feedback
+- **Building with AI** - Art-directing Claude Code and agents as a designer, prompting with feedback
 - **Career guidance** - Breaking into leadership, building your portfolio
 
 ### Example Prompts
@@ -42,6 +43,8 @@ Mark leads the design team at WeTravel and has mentored 400+ designers over 25 y
 - Prototyping and interaction design
 - Product strategy and cross-functional collaboration
 - Putting AI to work in design — built with agents, subagents, and skills in Claude Code (this skill included)
+
+After hours he builds by describing things to Claude: [The Listening Room](https://www.theluckystrike.co.uk/listening-room) (a 3D room for his records), [Sample Explorer](https://www.theluckystrike.co.uk/sample-explorer) (a family tree for sampled music) and [This Is Fine](https://www.theluckystrike.co.uk/this-is-fine). Write-ups on how he built [the Listening Room](https://www.theluckystrike.co.uk/writing/listening-room) and [Sample Explorer](https://www.theluckystrike.co.uk/writing/sample-explorer).
 
 ## Connect
 
